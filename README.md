@@ -13,7 +13,7 @@ using KPIs such as EM visibility reduction (dB), EM-per-power efficiency, and sa
 
 The full project report (Version 1, simulation only) is available on OSF:
 
-- OSF project: https://osf.io/XXXX
+- OSF project: https://osf.io/jyeum/overview
 
 
 ---
@@ -174,4 +174,5 @@ If you use this benchmark, please cite the project report, for example:
 ## License
 
 Add an open-source license of your choice (e.g., MIT / BSD-3-Clause / Apache-2.0) as `LICENSE` in the repository root.
+
 
