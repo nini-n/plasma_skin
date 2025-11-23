@@ -11,10 +11,10 @@ The benchmark is used to compare
 
 using KPIs such as EM visibility reduction (dB), EM-per-power efficiency, and safe-operation ratio.
 
-The full project report is included as:
+The full project report (Version 1, simulation only) is available on OSF:
 
-- `report_of_plasma_skin.pdf`  
-- `report_of_plasma_skin.docx`
+- OSF project: https://osf.io/XXXX
+
 
 ---
 
@@ -174,3 +174,4 @@ If you use this benchmark, please cite the project report, for example:
 ## License
 
 Add an open-source license of your choice (e.g., MIT / BSD-3-Clause / Apache-2.0) as `LICENSE` in the repository root.
+
