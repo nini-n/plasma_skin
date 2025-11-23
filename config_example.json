@@ -1,0 +1,24 @@
+{
+  "env": {
+    "mode": "A",
+    "episode_length": 400,
+    "seed": 0
+  },
+  "controller": {
+    "type": "es",
+    "baseline_name": "baseline",
+    "es_step_size": 0.02,
+    "es_perturbation_amplitude": 0.05
+  },
+  "rl_training": {
+    "total_episodes": 100,
+    "max_steps_per_episode": 400,
+    "learning_rate": 0.0003,
+    "gamma": 0.99
+  },
+  "logging": {
+    "output_dir": "results",
+    "save_timeseries": true,
+    "save_kpi_summary": true
+  }
+}
