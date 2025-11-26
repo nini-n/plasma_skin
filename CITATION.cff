@@ -2,18 +2,28 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Adaptive Plasma Skin Control in a Virtual Benchmark Environment: Extremum-Seeking vs. Reinforcement Learning"
 version: "1.0.0"
+
 authors:
   - family-names: "Ozoglu"
     given-names: "Nihan"
+    orcid: "https://orcid.org/0009-0001-2270-5496"
+
 date-released: 2025-11-22
 type: software
 license: MIT
+
+repository-code: "https://github.com/nini-n/plasma_skin"
+url: "https://osf.io/jyeum"
+doi: "10.17605/OSF.IO/8G4HZ"
+
 preferred-citation:
   type: misc
   title: "Adaptive Plasma Skin Control in a Virtual Benchmark Environment: Extremum-Seeking vs. Reinforcement Learning"
   authors:
     - family-names: "Ozoglu"
       given-names: "Nihan"
+      orcid: "https://orcid.org/0009-0001-2270-5496"
   year: 2025
-  notes: "Project Report -- Version 1 (Simulation Only)"
-repository-code: "https://github.com/nini-n/plasma_skin"
+  notes: "OSF registration, Version 1 (Simulation Only)"
+  doi: "10.17605/OSF.IO/8G4HZ"
+  url: "https://osf.io/jyeum"
