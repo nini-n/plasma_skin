@@ -11,10 +11,12 @@ The benchmark is used to compare
 
 using KPIs such as EM visibility reduction (dB), EM-per-power efficiency, and safe-operation ratio.
 
-The full project report (Version 1, simulation only) is available on OSF:
+## Project links
 
-- OSF project: https://osf.io/jyeum/overview
+- OSF project (report and materials): https://osf.io/jyeum  
+- OSF registration (Version 1, simulation only, DOI): https://doi.org/10.17605/OSF.IO/8G4HZ
 
+The full project report (Version 1, simulation only) is available on OSF via the project link above.
 
 ---
 
@@ -174,5 +176,6 @@ If you use this benchmark, please cite the project report, for example:
 ## License
 
 Add an open-source license of your choice (e.g., MIT / BSD-3-Clause / Apache-2.0) as `LICENSE` in the repository root.
+
 
 
